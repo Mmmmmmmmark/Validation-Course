@@ -8,4 +8,4 @@ Anaconda offers the easiest way to perform Python/R data science and machine lea
 
 
 ###
-![image](https://github.com/Mmmmmmmmark/Validation-Course/blob/main/2.png)
+![https://github.com/Mmmmmmmmark/Validation-Course/blob/main/jupyter-ar21.png)
