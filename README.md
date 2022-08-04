@@ -30,6 +30,8 @@ Type $ pip list. It will shown all packages you have installed. If you want to i
 
 Anaconda Navigator is a desktop GUI that comes with the anaconda distribution. It allows us to launch applications and manage conda packages, environment and without using command-line commands.
 
+
+
 ## Jupyter Notebook Tutorial
 
 ### What is Jupyter Notebook?
