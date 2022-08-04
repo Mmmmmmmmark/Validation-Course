@@ -14,7 +14,23 @@ Now that we know what anaconda is, let’s try to understand how we can install 
 
 ### Installation And Setup
 
-To install anaconda go to https://www.anaconda.com/products/distribution
+To install anaconda go to https://www.anaconda.com/products/distribution.
+
+Choose a version suitable for you and click on download. Once you complete the download, open the setup. Follow the instructions in the setup. Don’t forget to click on add anaconda to my path environment variable. After finishing the installation, open anaconda prompt and type jupyter notebook.
+
+Now that we know how to use anaconda for python lets take a look at how we can install various libraries in anaconda for any project.
+
+### How To Install Python Libraries In Anaconda?
+
+Open anaconda prompt and check if the package is already installed or not. 
+
+Type $ pip list. It will shown all packages you have installed. If you want to install a package (eg. Numpy). Just type $ pip install numpy.
+
+### Anaconda Navigator
+
+Anaconda Navigator is a desktop GUI that comes with the anaconda distribution. It allows us to launch applications and manage conda packages, environment and without using command-line commands.
+
+
 
 
 
