@@ -1,6 +1,6 @@
 # Validation-Course
 
-## Python Anoconda Tutorial
+## Anoconda Tutorial
 
 ### Introduction To Anaconda
 
@@ -30,13 +30,24 @@ Type $ pip list. It will shown all packages you have installed. If you want to i
 
 Anaconda Navigator is a desktop GUI that comes with the anaconda distribution. It allows us to launch applications and manage conda packages, environment and without using command-line commands.
 
+## Jupyter Notebook Tutorial
 
+### What is Jupyter Notebook?
 
+The Jupyter Notebook is an incredibly powerful tool for interactively developing and presenting data science projects. This article will walk you through how to use Jupyter Notebooks for data science projects and how to set it up on your local machine.
 
+First, though: what is a “notebook”?
 
+A notebook integrates code and its output into a single document that combines visualizations, narrative text, mathematical equations, and other rich media. In other words: it’s a single document where you can run code, display the output, and also add explanations, formulas, charts, and make your work more transparent, understandable, repeatable, and shareable.
 
+Using Notebooks is now a major part of the data science workflow at companies across the globe. If your goal is to work with data, using a Notebook will speed up your workflow and make it easier to communicate and share your results.
 
+Best of all, as part of the open source Project Jupyter, Jupyter Notebooks are completely free. You can download the software on its own, or as part of the Anaconda data science toolkit.
 
+Although it is possible to use many different programming languages in Jupyter Notebooks, this article will focus on Python, as it is the most common use case. (Among R users, R Studio tends to be a more popular choice).
 
-###
 ![image](https://github.com/Mmmmmmmmark/Validation-Course/blob/main/jupyter-ar21.png)
+
+### Running Jupyter by Anoconda
+
+Open anaconda prompt and type jupyter notebook.
