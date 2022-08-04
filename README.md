@@ -14,7 +14,7 @@ Now that we know what anaconda is, let’s try to understand how we can install 
 
 ### Installation And Setup
 
-To install anaconda go to (https://www.anaconda.com/products/distribution)
+To install anaconda go to https://www.anaconda.com/products/distribution
 
 
 
