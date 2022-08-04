@@ -61,3 +61,5 @@ Open anaconda prompt and type jupyter notebook.
 This is the Notebook Dashboard, specifically designed for managing your Jupyter Notebooks. Think of it as the launchpad for exploring, editing and creating your notebooks.
 
 Browse to the folder in which you would like to create your first notebook, click the “New” drop-down button in the top-right and select “Python 3”:
+
+![image](https://github.com/Mmmmmmmmark/Validation-Course/blob/main/3.png)
