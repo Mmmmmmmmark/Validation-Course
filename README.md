@@ -55,3 +55,5 @@ Although it is possible to use many different programming languages in Jupyter N
 Open anaconda prompt and type jupyter notebook.
 
 ![image](https://github.com/Mmmmmmmmark/Validation-Course/blob/main/1.png)
+
+![image](https://github.com/Mmmmmmmmark/Validation-Course/blob/main/2.png)
