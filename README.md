@@ -20,11 +20,13 @@ Choose a version suitable for you and click on download. Once you complete the d
 
 Now that we know how to use anaconda for python lets take a look at how we can install various libraries in anaconda for any project.
 
-### How To Install Python Libraries In Anaconda?
+### How To Install Python Packagess In Anaconda?
 
 Open anaconda prompt and check if the package is already installed or not. 
 
 Type $ pip list. It will shown all packages you have installed. If you want to install a package (eg. Numpy). Just type $ pip install numpy.
+
+If you want to Find, install and publish Python packages with the Python Package Index. Please go to https://pypi.org/.
 
 ### Anaconda Navigator
 
